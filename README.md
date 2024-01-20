@@ -7,11 +7,8 @@ Welcome to the 30 Days of JavaScript challenge! This repository contains solutio
 ### Closures
 
 - Create Hello World Function
-
 - Counter
-
 - To Be Or Not To Be
-
 - Counter II
 
 ### Basic Array Transformations
