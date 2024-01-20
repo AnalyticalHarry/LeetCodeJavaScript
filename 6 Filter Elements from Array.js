@@ -9,8 +9,6 @@ filteredArr should only contain the elements from the arr for which the expressi
 
 Please solve it without the built-in Array.filter method.
 
- 
-
 Example 1:
 
 Input: arr = [0,10,20,30], fn = function greaterThan10(n) { return n > 10; }
@@ -32,7 +30,6 @@ Output: [-2,0,1,2]
 Explanation:
 Falsey values such as 0 should be filtered out
  
-
 Constraints:
 
 0 <= arr.length <= 1000
